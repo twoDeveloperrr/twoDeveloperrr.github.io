@@ -29,5 +29,3 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/
 <<<<<<< HEAD
 =======
-
->>>>>>> 977c97a41eed3048681052b3aba5f2f24ae6c2b2
